@@ -1,3 +1,3 @@
 # nft authentication via contract address
 
-![./screenshot.png](screenshot)
+![https://github.com/hey-kader/oekaki-maker-authenticate/blob/main/screenshot.png](screenshot)
